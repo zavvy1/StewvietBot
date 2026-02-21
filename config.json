@@ -1,0 +1,25 @@
+{
+  "check_interval": 60,
+  "servers": {
+    "1135060782812516373": {
+    "name": "Stewviet Union", 
+    "channel_id": 1440743455176527924,
+      "role_id": 1135067846511169606,
+      "streamers": [
+        "ohnoitsriley",
+        "thebrandocus",
+        "squishrat",
+        "loosh",
+        "RagerRedhead"
+      ]
+    },
+    "1462847794577543190": {
+      "name": "Riley's Test Bed",
+      "channel_id": 1462847843495575603,
+      "role_id": 1462847968330911925,
+      "streamers": [
+        "ohnoitsriley"
+      ]
+    }
+  }
+}
