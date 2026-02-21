@@ -30,7 +30,7 @@ CST = ZoneInfo("America/Chicago")
 # DISCORD CONFIG
 # ======================
 
-DISCORD_TOKEN = "MTQ2MjcwODQ0MzU2NjU3NTcwMA.Gyvl3v.nnNNvXBrfQJPijICm3pSzpT-IAExie4CqLWvb0"
+DISCORD_TOKEN = ""
 
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
@@ -39,8 +39,8 @@ client = discord.Client(intents=intents)
 # TWITCH CONFIG
 # ======================
 
-TWITCH_CLIENT_ID = "hp2mcz2rdnb4qsmqwtx2b7jpa5dn94"
-TWITCH_CLIENT_SECRET = "un6ob5b8kjzhpfdndr7293q9w1gomh"
+TWITCH_CLIENT_ID = ""
+TWITCH_CLIENT_SECRET = ""
 
 twitch_token = None
 twitch_token_expiry = 0
