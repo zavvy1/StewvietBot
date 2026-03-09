@@ -23,7 +23,6 @@ def home():
     </ul>
     """
 @app.route("/send_daily_now", methods=["POST"])
-@app.route("/send_daily_now", methods=["POST"])
 def send_daily_now():
     shared.FORCE_DAILY_MESSAGE_ON_START = True
     return {"status": "ok"}
